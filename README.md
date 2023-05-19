@@ -11,7 +11,7 @@ Its installation is via Magisk on MIUI 12-13 based ROMs with Android 11/12.
 • Working for both Miui and Aosp as well (Choose while installing)
 • Only for A11/A12
 
-For issues or questions you can send a message in [Telegram](https://t.me/bootloop_discussion) group.
+For issues or questions you can send a message in [Telegram](https://t.me/amogus_discussion) group.
 
 
 ### Download
@@ -33,5 +33,7 @@ Download from [releases page](https://github.com/Mods-Center/Lawnchair_Mod/relea
 ![photo_2022-12-16_21-10-45](https://telegra.ph/file/3ba4444fba3259b2e9c87.jpg)
 
 
-
+| Download Mods | Total |
+| --- | --- |
+| GitHub Releases | ![GitHub all releases](https://img.shields.io/github/downloads/Mods-Center/Lawnchair_Mod/total?logo=GitHub&style=for-the-badge&color=blue) |
 
