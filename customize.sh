@@ -64,6 +64,11 @@ cleanup() {
 }
 
 set_permissions() {
+	#
+    # Credit goes to the Magisk Module Template Extended by Zackptg5
+    #
+    # https://github.com/Zackptg5/MMT-Extended/blob/master/common/functions.sh#L226
+    #
 	set_perm_recursive $MODPATH 0 0 0755 0644
 	if [ -d $MODPATH/system/vendor ]; then
 		set_perm_recursive $MODPATH/system/vendor 0 0 0755 0644 u:object_r:vendor_file:s0
