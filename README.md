@@ -15,24 +15,24 @@
 > [!WARNING]
 > **Legacy MIUI project. No longer updated.** It's kept for MIUI 12–13 users. 
 
-## ✨ Features
+## Features
 - LawnExtension app to control more preferences
 - Switch the themed-icon pack
 - Works on MIUI and AOSP (you choose during install)
 
-## 📋 Requirements
+## Requirements
 - MIUI 12–13 or AOSP, Android 11/12
 - Magisk
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/Lawnchair_Mod/releases/latest).
 2. Flash it in Magisk.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - If you use this in your ROM, please credit Mods Center. Not for paid ROMs.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://telegra.ph/file/9f146896582235656a528.jpg" width="23%" alt="Lawnchair for MIUI/AOSP"/>
   <img src="https://telegra.ph/file/c38d19cf1ad2b40393d75.jpg" width="23%" alt="Lawnchair for MIUI/AOSP"/>
@@ -47,8 +47,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/Lawnchair_Mod/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/Lawnchair_Mod/issues)
 
 </div>
