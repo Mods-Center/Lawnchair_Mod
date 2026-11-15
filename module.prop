@@ -3,3 +3,5 @@ name=Lawnchair 12 Mod
 version=12.0.0 Dev (#690)
 author=🅺🅰🆂🅷🅸
 description= Thanks to Lawnchair team,Teamfiles and various developers of themed icons whose apps are used in this mod.
+versionCode=1
+updateJson=https://raw.githubusercontent.com/Mods-Center/Lawnchair_Mod/main/update.json
